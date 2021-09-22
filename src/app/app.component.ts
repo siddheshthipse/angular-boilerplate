@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'eslint-angular';
 
-  firstname = 'Siddhesh Thipse';
+  firstname = "Siddhesh Thipse";
 }
